@@ -5,9 +5,9 @@ The template has been setup with a build task, and debugger launch file.
 
 Versions from which the project has been compiled and tested on.
 
-Visual Studio Code Linux AMD64 version 1.18.0\n
-Visual Studio Code Extension C/C++ version 0.14.2\n
-Ubunut 16.04 64-bit LTS\n
+- Visual Studio Code Linux AMD64 version 1.18.0
+- Visual Studio Code Extension C/C++ version 0.14.2
+- Ubunut 16.04 64-bit LTS
 
 
 
