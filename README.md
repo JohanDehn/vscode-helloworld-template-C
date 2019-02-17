@@ -1,4 +1,4 @@
-A template project for Visual Studio Code, C language running on Ubuntu 16.04
+A template project for Visual Studio Code, C language running on Ubuntu 18.04.
 
 Since there is lots of step-by-step setups but no templates, I made my own template for my projects, and I am sharing it with you. Enjoy!
 The template has been setup with a build task, and debugger launch file.
